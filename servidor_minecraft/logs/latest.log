@@ -1,0 +1,19 @@
+[04:41:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[04:41:41] [ServerMain/INFO]: Loaded 1461 recipes
+[04:41:41] [ServerMain/INFO]: Loaded 1574 advancements
+[04:41:41] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[04:41:41] [Server thread/INFO]: Loading properties
+[04:41:41] [Server thread/INFO]: Default game type: SURVIVAL
+[04:41:41] [Server thread/INFO]: Generating keypair
+[04:41:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:41:41] [Server thread/INFO]: Using epoll channel type
+[04:41:41] [Server thread/INFO]: Preparing level "world"
+[04:41:41] [Server thread/INFO]: Loading 0 persistent chunks...
+[04:41:41] [Server thread/INFO]: Time elapsed: 13 ms
+[04:41:41] [Server thread/INFO]: Done (0.284s)! For help, type "help"
+[04:42:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:43:05] [User Authenticator #1/INFO]: UUID of player V4nhel is 3f5bba74-1242-4991-8e69-854f50755dd6
+[04:43:07] [Server thread/INFO]: V4nhel[/127.37.71.54:56429] logged in with entity id 61 at (-5.300000011920929, 70.0, 97.69999998807907)
+[04:43:07] [Server thread/INFO]: V4nhel joined the game
+[04:44:35] [Server thread/INFO]: V4nhel lost connection: Disconnected
+[04:44:35] [Server thread/INFO]: V4nhel left the game
