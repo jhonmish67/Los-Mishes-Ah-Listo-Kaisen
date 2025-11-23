@@ -1,0 +1,41 @@
+[04:23:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[04:23:33] [ServerMain/INFO]: Loaded 1461 recipes
+[04:23:33] [ServerMain/INFO]: Loaded 1574 advancements
+[04:23:34] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[04:23:34] [Server thread/INFO]: Loading properties
+[04:23:34] [Server thread/INFO]: Default game type: SURVIVAL
+[04:23:34] [Server thread/INFO]: Generating keypair
+[04:23:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:23:34] [Server thread/INFO]: Using epoll channel type
+[04:23:34] [Server thread/INFO]: Preparing level "world"
+[04:23:34] [Server thread/INFO]: Loading 0 persistent chunks...
+[04:23:34] [Server thread/INFO]: Preparing spawn area: 100%
+[04:23:34] [Server thread/INFO]: Time elapsed: 13 ms
+[04:23:34] [Server thread/INFO]: Done (0.367s)! For help, type "help"
+[04:23:46] [User Authenticator #1/INFO]: UUID of player V4nhel is 3f5bba74-1242-4991-8e69-854f50755dd6
+[04:23:48] [Server thread/INFO]: V4nhel[/127.37.71.54:43153] logged in with entity id 79 at (-10.18385274422055, 79.0, 110.13523977460035)
+[04:23:48] [Server thread/INFO]: V4nhel joined the game
+[04:31:01] [User Authenticator #2/INFO]: UUID of player LeBallin is 642732cd-ad51-4509-a7c0-3ab4de15958a
+[04:31:03] [Server thread/INFO]: LeBallin[/127.150.213.8:56517] logged in with entity id 1569 at (-78.45529510213447, 89.0, 102.13249026049341)
+[04:31:03] [Server thread/INFO]: LeBallin joined the game
+[04:43:30] [Server thread/INFO]: <V4nhel> 1+1
+[04:43:36] [Server thread/INFO]: <V4nhel> :o
+[05:23:02] [Server thread/INFO]: LeBallin was slain by Enderman
+[05:31:27] [Server thread/INFO]: <LeBallin> z
+[05:31:27] [Server thread/INFO]: <LeBallin> z
+[05:31:27] [Server thread/INFO]: <LeBallin> z
+[05:31:27] [Server thread/INFO]: <LeBallin> z
+[05:31:27] [Server thread/INFO]: <LeBallin> z
+[05:31:27] [Server thread/INFO]: <LeBallin> z
+[05:31:27] [Server thread/INFO]: <LeBallin> z
+[05:31:28] [Server thread/INFO]: <LeBallin> z
+[05:31:35] [Server thread/INFO]: V4nhel lost connection: Disconnected
+[05:31:35] [Server thread/INFO]: V4nhel left the game
+[05:31:39] [User Authenticator #3/INFO]: UUID of player V4nhel is 3f5bba74-1242-4991-8e69-854f50755dd6
+[05:31:40] [Server thread/INFO]: V4nhel[/127.37.71.54:43717] logged in with entity id 17127 at (32.6650168276988, 58.0, 111.4318537023778)
+[05:31:40] [Server thread/INFO]: V4nhel joined the game
+[05:42:55] [Server thread/INFO]: V4nhel lost connection: Disconnected
+[05:42:55] [Server thread/INFO]: V4nhel left the game
+[05:43:08] [User Authenticator #4/INFO]: UUID of player V4nhel is 3f5bba74-1242-4991-8e69-854f50755dd6
+[05:43:09] [Server thread/INFO]: V4nhel[/127.37.71.54:58247] logged in with entity id 19757 at (33.57883916046787, 58.0, 117.34966687570227)
+[05:43:09] [Server thread/INFO]: V4nhel joined the game
